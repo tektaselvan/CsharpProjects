@@ -1,0 +1,16 @@
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\bin\Debug\net5.0\drawCircle.exe
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\bin\Debug\net5.0\drawCircle.deps.json
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\bin\Debug\net5.0\drawCircle.runtimeconfig.json
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\bin\Debug\net5.0\drawCircle.runtimeconfig.dev.json
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\bin\Debug\net5.0\drawCircle.dll
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\bin\Debug\net5.0\drawCircle.pdb
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.AssemblyInfoInputs.cache
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.AssemblyInfo.cs
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.csproj.CoreCompileInputs.cache
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.sourcelink.json
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.dll
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\refint\drawCircle.dll
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.pdb
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\drawCircle.genruntimeconfig.cache
+C:\Users\elvan\Documents\GitHub\CsharpProjects\Basic Projects\drawCircle\obj\Debug\net5.0\ref\drawCircle.dll
