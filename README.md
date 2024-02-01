@@ -93,3 +93,40 @@ Verilen string ifade içerisinde yanyana 2 tane sessiz varsa ekrana true, yoksa 
 Örnek: Input: Merhaba Umut Arya
 
 Output: True False True
+
+### Hard Level Projects
+-Voting Uygulaması
+-ATM Uygulaması
+-Barcode Generatör/Reeder
+
+**Voting Uygulaması**
+Uygulama çalıştığında pre-defined olarak belirlenen kategoriler oylamaya sunulmak üzere listelenmelidir. Yalnızca sisemde kayırlı olan kullanıcılar oy verebilir. Oylama sırasında öncelikle kullanıcının username'i istenmelidir. Eğer sistemde kayıtlı değilse kayıt olmasına imkan sağlanmalı ve kaldığı yerden oylamaya devam edebilmelidir. Kategoriler isteğe bağlı olarak belirlenebilir.
+
+Bazı Örnek Kategoriler: Film Kategorileri Tech Stack Kategorileri Spor Kategorileri
+
+Son olarak uygulama sonlandırılırken, Voting sonuçları hem rakamsal hem de yüzdesel olarak gösterilmelidir.
+
+Kullanılması gereken teknikler:
+
+Kategoriler pre-defined kullanılabilir.
+
+**ATM Uygulaması**
+Uygulama ilk çalıştığında kullanıcıdan yamak istediği işlemi öğrenmelidir. Bunlar ATM üzerinden yapılabilecek temem işlemledir. Para çekme, para yatırma, ödeme yapma vs.. İsteğe bağlı olarak genişletilebilir. Öncelikle ATM ye giriş yapan kullanıcın sistemde kayıtlı bir kullanıcı olduğundan emin olunmalıdır.
+
+Uygulamada bir de gün sonu seçeneği olmalıdır. Gün sonu alınmak istendiğinde, gün içerisinde yapılan transaction ların logları ve fraud olabilecek yani hatalı giriş denemeleri log gösterilmelidir. Aynı client'ın bilgisayarında belirlenen bir lokasyona EOD_Tarih(DDMMYYY formatında).txt adında bir dosyaya yazılmalıdır.
+
+Kullanılması gereken teknikler:
+
+Dosyaya Yazma
+Dosyadan Okuma
+İşlem listesi pre-defined olarak kullanılabilir.
+
+**Barkod Uygulaması**
+3rd party barcode kütüphaneleri kullanarak barcode üreten bunu client'ın bilgisayarında bir lokasyona kaydeden. Daha sonra da barcode'u okuyabilen bir console uygulaması yazınız.
+
+Kullanılması gereken teknikler:
+
+Console Application
+Import 3rd Party Library
+Dosyaya Yazma
+Dosyadan Okuma
