@@ -46,6 +46,14 @@ Verilen string ifade içerisindeki karakterleri bir önceki karakter ile yer de�
 
 Output: erhabaM elloH uestionQ
 
+### Mid Level Projects
+-Alan Hesaplama
+-İnteger İkililerinin Toplamı
+-Mutlak Kare Alma
+-Karakter Değiştirme
+-Karakter Değiştirme
+-Sessiz Harf
+
 **Alan Hesaplama**
 C# Console uygulaması oluşturarak aşağıdaki gereksinimleri karşılayan uygulamayı yazınız.
 
